@@ -14,3 +14,6 @@ its usually:
  or just download the zip files
 
 In the projects page you can add to do, doing and done followed by your name for tracking and management if you like
+
+some more information and useful links:
+https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests
