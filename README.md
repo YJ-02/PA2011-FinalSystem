@@ -12,3 +12,5 @@ https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cl
 its usually:
   clone (repositry link)
  or just download the zip files
+
+In the projects page you can add to do, doing and done followed by your name for tracking and management if you like
