@@ -9,6 +9,6 @@ How to get the app.
 to Get the app downloaded or added to your local pc look at the following
 
 https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
-
-but its usually:
+its usually:
   clone (repositry link)
+ or just download the zip files
